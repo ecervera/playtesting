@@ -1,0 +1,16 @@
+{
+"companyName": "Madki GAMES",
+"productName": "The Antidote",
+"productVersion": "1.0",
+"dataUrl": "Build2.0WebGL.data.unityweb",
+"wasmCodeUrl": "Build2.0WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build2.0WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
